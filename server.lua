@@ -1,5 +1,4 @@
-_G.server = {}
-local cirrus = _G.server
+local cirrus = {}
 local MarketplaceService = game:getService("MarketplaceService")
 local engine = script.Parent
 local resourceBin = game.Lighting:findFirstChild("Cirrus")
@@ -253,4 +252,4 @@ end
 cirrus.Ready = true
 cirrus.output("Server is ready!")
 
-
+_G.server = cirrus

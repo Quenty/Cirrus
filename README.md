@@ -76,7 +76,7 @@ Cirrus
 		Both of these should have the following as a header to ensure code doesn't break:
 		
 			--FOR SERVER SCRIPTS
-			while not _G.server or not _G.server.waitForLibraries do
+			while not _G.server do
 				wait(0)
 			end
 			local cirrus = _G.server.waitForLibraries()
