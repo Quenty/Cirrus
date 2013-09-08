@@ -1,0 +1,1203 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sup",
+				"ScrollUp"
+			],
+			[
+				"BeingEds",
+				"SelectorBeingEditedStack"
+			],
+			[
+				"wai",
+				"waitForChild"
+			],
+			[
+				"Form",
+				"FormatsRequired"
+			],
+			[
+				"GetMonthNam",
+				"GetMonthNameShort"
+			],
+			[
+				"GetFor",
+				"GetFormattedMonth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.lua",
+			"settings":
+			{
+				"buffer_size": 7180,
+				"line_ending": "Windows",
+				"name": "_G.server = {}"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lus",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"lu",
+				"Set Syntax: Lua"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rbx",
+				"Set Syntax: RbxLuaQuenty"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pla te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"REIND",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"rb",
+				"Set Syntax: RbxLuaQuenty"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rbxlu",
+				"Set Syntax: RbxLuaQuenty"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"Rbx",
+				"Set Syntax: RbxLuaQuenty"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"sniplu",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package con inst",
+				"Package Control: Install Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syntax lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 143.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/CharacterAnimationTester.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Commands.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qSystems.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Spectate.Lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/CharacterState.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/Unimplimented/qGUI.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/ViriumCommands.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - !01-gloo.lua",
+		"/C/Users/James/Downloads/Minimal box size.Lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qMath.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/APIMod/API.txt",
+		"/C/Program Files/Lightworks/config.dat",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/KeyboardStatus.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/SoundPlayer.lua",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/CharacterAnimationService.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/PseudoChat.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/SetupPseudoChat.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/ModularSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/MenuSystemTester.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/MerelyExplorer.lua",
+		"/C/Users/James/Downloads/ExplorerForEthan.txt",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/qCamera.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - SmoothMoves.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - Camera.lua",
+		"/C/Users/James/Downloads/pixelvision___skin_for_steam_by_pulseh-d3hvlgp/Full Installation/README.txt",
+		"/C/Users/James/Downloads/pixelvision___skin_for_steam_by_pulseh-d3hvlgp/Updated Files Only/README_UPDATE.txt",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/EasyConfiguration.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - LocalGunScript.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/AnimationSystemsTester.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/AnimationSystems.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qString.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/MenuSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qCFrame.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/QuentySupportSystemLocal.lua",
+		"/C/Users/James/Downloads/JumpMap_0.Lua",
+		"/C/Users/James/Downloads/Cards 1.3/cards.lua",
+		"/C/Users/James/Downloads/Cards 1.3.love",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - Camera2.lua",
+		"/C/Users/James/SkyDrive/Documents/Fix.REG",
+		"/C/Users/James/AppData/Local/Roblox/plugins/CmdUtl/CmdUtl.lua",
+		"/C/Users/James/AppData/Local/Roblox/plugins/Animate/Animate.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - MainScript.lua",
+		"/C/Users/James/Documents/Roblox/Archive/RBX.Lua/RBX.Lua/Character/Rofl.lua",
+		"/C/Users/James/Documents/Roblox/Archive/RBX.Lua/RBX.Lua/Character/Martyrdom.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/NotificationSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/ScrollBar.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/QuentySupportSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/APIMod/RobloxValueModel.rbxm",
+		"/C/Users/James/AppData/Local/Roblox/plugins/AttachmentHelper/AttachmentHelper.Lua",
+		"/C/Users/James/AppData/Local/Roblox/plugins/NewObjects/code.lua",
+		"/C/Users/James/AppData/Local/Roblox/plugins/CmdUtl/MANUAL.txt",
+		"/C/Users/James/Documents/Archive/_DevResources/LuaLand/ReadMe.txt",
+		"/C/Windows.old/Users/James/Downloads/GetProperties_function_86332157.rbxm",
+		"/C/Windows.old/Users/James/AppData/Roaming/Adobe/Scripting.log",
+		"/C/Windows.old/Users/James/Videos/AdminScriptExample.txt",
+		"/C/Users/James/_MCServer/BTW 1.5.2/server.properties",
+		"/C/Users/James/AppData/Roaming/_MultiMinecraft/instances/BTW 891/minecraft/texturepacks/Transparent/pack.txt",
+		"/C/Users/James/AppData/Roaming/_MultiMinecraft/instances/BTW 891/minecraft/texturepacks/AnimCraft/pack.txt",
+		"/C/Users/James/AppData/Roaming/_MultiMinecraft/mods/_Texturepacks/AnimCraft/AnimCraft/DON'T READ ME.txt",
+		"/C/Users/James/Downloads/saveterrain/Installation.txt",
+		"/C/Users/James/Downloads/saveterrain/SaveTerrain/loadterrain.lua",
+		"/C/Users/James/Downloads/saveterrain/SaveTerrain/saveterrain.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/MenuDocumentationSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/ViriumSystems.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/PlayerManager.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/ViriumMain.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/ParagraphConstructor.lua",
+		"/C/Users/James/_MCServer/BTW 1.5.2/server.log",
+		"/C/Users/James/_MCServer/BTW 1.5.2/white-list.txt",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qCommandServices.lua",
+		"/C/Users/James/Downloads/Spectate.Lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/SettingsService.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qPlayerSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/PersistantLog.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/UserActionSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Settings.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/RawCharacter.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/Character.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LibraryManager.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/UserActionSystem",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/TeamSelector.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/TeamSelector",
+		"/C/Users/James/AppData/Local/Roblox/plugins/CutsceneEditor 1.8/CutsceneEdit.lua",
+		"/C/Users/James/Downloads/Animate.Lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - ChatScript.lua",
+		"/C/Users/James/AppData/Local/Roblox/Versions/version-8608ff54d8aa484f/BuiltInPlugins/terrain/11 - floodfill.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/EventBin.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/Table.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/CharacterAnimationService",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/CharacterState",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/BanSystem.lua",
+		"/C/Users/James/Downloads/Town.rbxm",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/ScrollbarTester.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/Unimplimented/CustomizationSystem.lua",
+		"/C/dldw.log",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/PenlightModified/PenlightPretty.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/ScreenCover.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/KineticModel.js",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/Unimplimented/ScrollBar.lua",
+		"/C/Users/James/AppData/Local/Roblox/plugins/Light Objects Editor/PluginMain.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/FlickList.js",
+		"/C/Users/James/Downloads/roblox-script-97188756.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/RespawnService.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/CompassSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/RespawnServiceTester.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/CommandPlayerSetup.lua",
+		"/C/Users/James/AppData/Local/Roblox/GlobalSettings_13.xml",
+		"/C/Users/James/AppData/Local/Roblox/IDESettings5.xml",
+		"/C/Users/James/AppData/Local/Roblox/GlobalBasicSettings_13.xml",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyGUiAdminCommandsLocal.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyGuiAdminCommands3.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyGuiAdminCommands3",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands4.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Reference/Reference - QuentyGuiAdminCommands3.lua",
+		"/C/Users/James/AppData/Local/Google/Chrome/User Data/Default/Extensions/oldkompphpomjnkphhphjfggbadhdlfo/2.1.0_0/background.js",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/DocumentationSystem.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/TestScripts/ParagraphConstructorTester",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/LocalSystems/MarkdownSystem.lua",
+		"/C/Users/James/AppData/Local/Roblox/plugins/AdminCommandsTesting/RecolorStudio.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/CatalogSystems/jsonDataLua.txt",
+		"/C/Users/James/AppData/Local/Roblox/plugins/AdminCommandsTesting/AdminCommandsTesting.lua",
+		"/C/Users/James/Downloads/GameOptimizer/GameOptimizer/Minify.lua",
+		"/C/Users/James/Downloads/GameOptimizer/GameOptimizer/GameOptimizer.lua",
+		"/C/Users/James/AppData/Roaming/Sublime Text 2/Packages/Theme - Default/Widgets.stTheme",
+		"/C/Users/James/Downloads/roblox-script-60595411.lua",
+		"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/Libraries/qInstance.lua",
+		"/C/Users/James/Documents/GitHub/qSystems/PenlightPretty.lua"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"detailedlist",
+			"qmath",
+			"update",
+			"	",
+			"Target",
+			"logo",
+			"Chat",
+			"pseudochat",
+			"function",
+			"end",
+			"if",
+			"local",
+			"Mouse",
+			"1",
+			"Keys",
+			"Camera",
+			"Camera ",
+			"Camera",
+			"\\n ",
+			".",
+			"Handle",
+			"Jump",
+			"CurrentStates[2]",
+			"Run",
+			"Notification",
+			"looping",
+			"spectator",
+			"Spectator",
+			"Handle",
+			"registerlib",
+			"gunsystems",
+			"Player",
+			"CharacterState",
+			"shoot",
+			".",
+			"(Torso.Velocity - Vector3.new(0, Torso.Velocity.y, 0)).magnitude <= 1",
+			"(Torso.Velocity - Vector3.new(0, Torso.Velocity.y, 0)).magnitude > 1",
+			"1",
+			"0",
+			"Kill",
+			"James",
+			"min",
+			"above",
+			"CoordinateFrame",
+			"camera",
+			"advHit",
+			"physSettings",
+			"lHipSet",
+			"frame",
+			"Fire(",
+			"lib",
+			"Joint16",
+			"Sequences.Joint16",
+			"Sequences",
+			"Sequence",
+			"keys",
+			"lib.",
+			"LibraryAdded",
+			"Velcocity",
+			"^",
+			"JointStatus.PercentComplete",
+			":Get",
+			"AnimationLength",
+			"ParsePriority",
+			"Loop",
+			"ActivateMouse",
+			"activatemouse",
+			"selectedge",
+			"endfall",
+			"'",
+			"loadassets",
+			"preloadassetlist",
+			".LastPointSinceAction()",
+			"AnimationToState[NewState]",
+			"cover",
+			"Cover",
+			"Players",
+			"Players ",
+			"loadingStop",
+			"screencoverconfigs",
+			"usersettings",
+			"systemnotifier",
+			"notificationsystem",
+			"Notificationsystem",
+			"Chat",
+			"CoreGui",
+			"setCurrentSelection",
+			"getIMouse",
+			"AnimationLevelsStack",
+			"AddAnimationToStack",
+			", )",
+			"...",
+			"\")",
+			"()",
+			"ActiveAnimation",
+			"Sequences[",
+			"Sequences",
+			"TargetKeyframe",
+			"TargetKeyFrame",
+			"tick()",
+			"PercentComplete",
+			"torso",
+			"Enum Priori",
+			"Priority",
+			"Priority ",
+			"onoffhandle",
+			"activate",
+			"activatemouse",
+			"ActivateMouse",
+			"activatemouse",
+			"SelectTool(",
+			"Activate",
+			"ActivateMouse",
+			"GetMouse()",
+			"activatemouse",
+			"SettingsButton",
+			"ActivateMouse",
+			"activate",
+			"activate(",
+			"activatemouse",
+			"activategui",
+			"activatemous",
+			"plugin:activate",
+			"Activate(",
+			"expandpanel",
+			"activategui",
+			"SetActive",
+			"SetActive("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"     ",
+			"\\nfunction",
+			"\\nend",
+			"\\nif",
+			"\\nlocal",
+			"	",
+			":LastPointSinceAction()",
+			"TargetKeyFrame",
+			"",
+			" ",
+			"",
+			" ",
+			"",
+			" ",
+			"lib",
+			"Lib",
+			"\"",
+			"make",
+			"getType",
+			"Type",
+			"lib",
+			"classSystem.createSignal",
+			"simpletype",
+			"simpleType",
+			"isABrickColor",
+			"isACoordinateFrame",
+			"isAColor3",
+			"isOfEnumType",
+			"coerceIntoEnum",
+			"isAnEnum",
+			"isALibrary",
+			"isAnInstance",
+			"isA",
+			"simpleTypeLibrary",
+			".",
+			"};\\n[\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.lua",
+					"settings":
+					{
+						"buffer_size": 7180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7180,
+								7180
+							]
+						],
+						"settings":
+						{
+							"auto_name": "_G.server = {}",
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2646.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gloo",
+				"Reference/Reference - !01-gloo.lua"
+			],
+			[
+				"qsyss",
+				"Libraries/qSystems.lua"
+			],
+			[
+				"math",
+				"Libraries/qMath.lua"
+			],
+			[
+				"virumc",
+				"ViriumCommands.lua"
+			],
+			[
+				"gui",
+				"LocalSystems/Unimplimented/qGUI.lua"
+			],
+			[
+				"charast",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"specta",
+				"Reference/Spectate.Lua"
+			],
+			[
+				"soup",
+				"LocalSystems/SoundPlayer.lua"
+			],
+			[
+				"key",
+				"LocalSystems/KeyboardStatus.lua"
+			],
+			[
+				"qsys",
+				"Libraries/qSystems.lua"
+			],
+			[
+				"comma",
+				"Commands.lua"
+			],
+			[
+				"charanserv",
+				"LocalSystems/CharacterAnimationService.lua"
+			],
+			[
+				"pseudoch",
+				"LocalSystems/PseudoChat.lua"
+			],
+			[
+				"explor",
+				"Reference/ExplorerForEthan.txt"
+			],
+			[
+				"menst",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"mest",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"mensyt",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"keyb",
+				"LocalSystems/KeyboardStatus.lua"
+			],
+			[
+				"chat",
+				"LocalSystems/PseudoChat.lua"
+			],
+			[
+				"characteranservi",
+				"LocalSystems/CharacterAnimationService.lua"
+			],
+			[
+				"chans",
+				"TestScripts/CharacterAnimationTester.lua"
+			],
+			[
+				"camera",
+				"Reference/Reference - Camera.lua"
+			],
+			[
+				"guns",
+				"Reference/Reference - LocalGunScript.lua"
+			],
+			[
+				"gun",
+				"Reference/Reference - LocalGunScript.lua"
+			],
+			[
+				"ansys",
+				"Libraries/AnimationSystems.lua"
+			],
+			[
+				"modulars",
+				"Libraries/ModularSystem.lua"
+			],
+			[
+				"anst",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"menus",
+				"LocalSystems/MenuSystem.lua"
+			],
+			[
+				"qstring",
+				"Libraries/qString.lua"
+			],
+			[
+				"menusys",
+				"LocalSystems/MenuSystem.lua"
+			],
+			[
+				"mens",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"qssl",
+				"QuentySupportSystemLocal.lua"
+			],
+			[
+				"chast",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"qcframe",
+				"Libraries/qCFrame.lua"
+			],
+			[
+				"qcame",
+				"LocalSystems/qCamera.lua"
+			],
+			[
+				"easyconf",
+				"Libraries/EasyConfiguration.lua"
+			],
+			[
+				"gunscrip",
+				"Reference/Reference - LocalGunScript.lua"
+			],
+			[
+				"qgui",
+				"LocalSystems/Unimplimented/qGUI.lua"
+			],
+			[
+				"chasta",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"chanst",
+				"TestScripts/CharacterAnimationTester.lua"
+			],
+			[
+				"mainscript",
+				"Reference/Reference - MainScript.lua"
+			],
+			[
+				"character",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"comman",
+				"Commands.lua"
+			],
+			[
+				"sc",
+				"LocalSystems/ScrollBar.lua"
+			],
+			[
+				"notfs",
+				"LocalSystems/NotificationSystem.lua"
+			],
+			[
+				"nots",
+				"LocalSystems/NotificationSystem.lua"
+			],
+			[
+				"tester",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"chst",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"charst",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"qsss",
+				"QuentySupportSystem.lua"
+			],
+			[
+				"quentss",
+				"QuentySupportSystem.lua"
+			],
+			[
+				"characterst",
+				"LocalSystems/CharacterState.lua"
+			],
+			[
+				"animat",
+				"LocalSystems/CharacterAnimationService.lua"
+			],
+			[
+				"coman",
+				"Commands.lua"
+			],
+			[
+				"playman",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"pseuch",
+				"LocalSystems/PseudoChat.lua"
+			],
+			[
+				"viriucom",
+				"ViriumCommands.lua"
+			],
+			[
+				"com",
+				"Commands.lua"
+			],
+			[
+				"qmat",
+				"Libraries/qMath.lua"
+			],
+			[
+				"viriumain",
+				"ViriumMain.lua"
+			],
+			[
+				"main",
+				"Reference/Reference - MainScript.lua"
+			],
+			[
+				"pargcon",
+				"LocalSystems/ParagraphConstructor.lua"
+			],
+			[
+				"scrb",
+				"LocalSystems/ScrollBar.lua"
+			],
+			[
+				"meins",
+				"LocalSystems/MenuDocumentationSystem.lua"
+			],
+			[
+				"pargracon",
+				"LocalSystems/ParagraphConstructor.lua"
+			],
+			[
+				"commands",
+				"Libraries/qCommandServices.lua"
+			],
+			[
+				"virucom",
+				"ViriumCommands.lua"
+			],
+			[
+				"plaman",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"plama",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"ansystest",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"anisystem",
+				"Libraries/AnimationSystems.lua"
+			],
+			[
+				"anis",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"ansystem",
+				"Libraries/AnimationSystems.lua"
+			],
+			[
+				"animst",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"menudoc",
+				"LocalSystems/MenuDocumentationSystem.lua"
+			],
+			[
+				"coma",
+				"Commands.lua"
+			],
+			[
+				"pseudch",
+				"LocalSystems/PseudoChat.lua"
+			],
+			[
+				"scb",
+				"LocalSystems/ScrollBar.lua"
+			],
+			[
+				"qcfr",
+				"Libraries/qCFrame.lua"
+			],
+			[
+				"charan",
+				"LocalSystems/CharacterAnimationService.lua"
+			],
+			[
+				"setser",
+				"Libraries/SettingsService.lua"
+			],
+			[
+				"plman",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"persl",
+				"Libraries/PersistantLog.lua"
+			],
+			[
+				"plam",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"qplas",
+				"Libraries/qPlayerSystem.lua"
+			],
+			[
+				"playma",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"log",
+				"Libraries/PersistantLog.lua"
+			],
+			[
+				"pseudcha",
+				"LocalSystems/PseudoChat.lua"
+			],
+			[
+				"settings",
+				"Settings.lua"
+			],
+			[
+				"se",
+				"Settings.lua"
+			],
+			[
+				"qstrin",
+				"Libraries/qString.lua"
+			],
+			[
+				"sser",
+				"Libraries/SettingsService.lua"
+			],
+			[
+				"sett",
+				"Settings.lua"
+			],
+			[
+				"setts",
+				"Libraries/SettingsService.lua"
+			],
+			[
+				"qst",
+				"Libraries/qString.lua"
+			],
+			[
+				"qcs",
+				"Libraries/qCommandServices.lua"
+			],
+			[
+				"rawch",
+				"Libraries/RawCharacter.lua"
+			],
+			[
+				"char",
+				"Libraries/Character.lua"
+			],
+			[
+				"plm",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"qcomms",
+				"Libraries/qCommandServices.lua"
+			],
+			[
+				"libm",
+				"LibraryManager.lua"
+			],
+			[
+				"mainscip",
+				"Reference/Reference - MainScript.lua"
+			],
+			[
+				"ss",
+				"Libraries/SettingsService.lua"
+			],
+			[
+				"set",
+				"Settings.lua"
+			],
+			[
+				"qplasy",
+				"Libraries/qPlayerSystem.lua"
+			],
+			[
+				"anist",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"teams",
+				"LocalSystems/TeamSelector"
+			],
+			[
+				"ans",
+				"Libraries/AnimationSystems.lua"
+			],
+			[
+				"playm",
+				"Libraries/PlayerManager.lua"
+			],
+			[
+				"anisyt",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"eveb",
+				"Libraries/EventBin.lua"
+			],
+			[
+				"table",
+				"Libraries/Table.lua"
+			],
+			[
+				"qsyste",
+				"Libraries/qSystems.lua"
+			],
+			[
+				"animationsystem",
+				"Libraries/AnimationSystems.lua"
+			],
+			[
+				"anims",
+				"TestScripts/AnimationSystemsTester.lua"
+			],
+			[
+				"menust",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"qmath",
+				"Libraries/qMath.lua"
+			],
+			[
+				"mensytest",
+				"TestScripts/MenuSystemTester.lua"
+			],
+			[
+				"animsy",
+				"Libraries/AnimationSystems.lua"
+			],
+			[
+				"bansy",
+				"Libraries/BanSystem.lua"
+			],
+			[
+				"qsystem",
+				"Libraries/qSystems.lua"
+			],
+			[
+				"scbar",
+				"LocalSystems/ScrollBar.lua"
+			],
+			[
+				"qstr",
+				"Libraries/qString.lua"
+			],
+			[
+				"chara",
+				"Libraries/Character.lua"
+			],
+			[
+				"comm",
+				"Commands.lua"
+			],
+			[
+				"persilog",
+				"Libraries/PersistantLog.lua"
+			],
+			[
+				"pl",
+				"PenlightModified/PenlightPretty.lua"
+			],
+			[
+				"playerm",
+				"Libraries/PlayerManager.lua"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/James/Documents/Roblox/_Survival Game/SurvivalGame.sublime-project"
+			],
+			[
+				"surviga",
+				"/C/Users/James/Documents/Roblox/_Survival Game/SurvivalGame.sublime-project"
+			],
+			[
+				"sur",
+				"/C/Users/James/Documents/Roblox/_Survival Game/SurvivalGame.sublime-project"
+			],
+			[
+				"su",
+				"/C/Users/James/Documents/Roblox/_Survival Game/SurvivalGame.sublime-project"
+			],
+			[
+				"quenad",
+				"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/QuentyAdminCommandsProject.sublime-project"
+			],
+			[
+				"que",
+				"/C/Users/James/Documents/Roblox/_AdminCommands/QuentyAdminCommands5/QuentyAdminCommandsProject.sublime-project"
+			],
+			[
+				"j",
+				"/C/Users/James/Documents/__Java/JavaCompileTesting.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true
+}
